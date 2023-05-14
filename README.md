@@ -1,1 +1,1 @@
-This bot detects hand movement by SONAR mrthod and follows it
+This bot detects hand movement by SONAR method and follows it
